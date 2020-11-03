@@ -1,0 +1,2081 @@
+Looking for git in: git
+Using git 1.8.3.1 from git
+> git rev-parse --git-dir
+Open repository: /students_home/cs20171143/3-2/OS/uni20171143_uni20181281
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/build/tests/userprog/create-normal
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :project2-1/pintos/src/userprog/build/tests/userprog/create-normal
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/build/tests/userprog/create-normal
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :project2-1/pintos/src/filesys/file.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/filesys/file.h
+> git cat-file -s a33c5af49f7c9c29142b234290e7c1969b9f54cb
+> git check-ignore -v -z --stdin
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :project2-1/pintos/src/userprog/pagedir.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/pagedir.c
+> git cat-file -s a6a87b827ba16a12157d94df6f2a7233b7c59e8e
+> git show --textconv :project2-1/pintos/src/filesys/filesys.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/filesys/filesys.c
+> git cat-file -s 7a53f5ffd924ca7b1b384fd9b46b3256e14f30e6
+> git check-ignore -v -z --stdin
+> git show --textconv :project2-1/pintos/src/filesys/file.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/filesys/file.h
+> git cat-file -s a33c5af49f7c9c29142b234290e7c1969b9f54cb
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :project2-1/pintos/src/filesys/off_t.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/filesys/off_t.h
+> git cat-file -s 9caff4dbae88823f109b1d3ee99c7535f79a55ce
+> git show --textconv :project2-1/pintos/src/filesys/file.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/filesys/file.c
+> git cat-file -s d5fc10de15004e98d4f8490aa8a7ec8a4c7efcff
+> git show --textconv :project2-1/pintos/src/filesys/off_t.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/filesys/off_t.h
+> git cat-file -s 9caff4dbae88823f109b1d3ee99c7535f79a55ce
+> git show --textconv :project2-1/pintos/src/filesys/file.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/filesys/file.h
+> git cat-file -s a33c5af49f7c9c29142b234290e7c1969b9f54cb
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git check-ignore -v -z --stdin
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :project2-1/pintos/src/filesys/file.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/filesys/file.h
+> git cat-file -s a33c5af49f7c9c29142b234290e7c1969b9f54cb
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :project2-1/pintos/src/lib/kernel/list.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/lib/kernel/list.h
+> git cat-file -s 82efbb5b1c19053a4b7c68723f358bb413ece4c2
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/lib/kernel/list.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/lib/kernel/list.h
+> git cat-file -s 82efbb5b1c19053a4b7c68723f358bb413ece4c2
+> git check-ignore -v -z --stdin
+> git show --textconv :project2-1/pintos/src/threads/thread.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.c
+> git cat-file -s 53a9316d06e0e0f7cb7719df910fba258275363a
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/threads/thread.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.c
+> git cat-file -s 53a9316d06e0e0f7cb7719df910fba258275363a
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/lib/kernel/list.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/lib/kernel/list.h
+> git cat-file -s 82efbb5b1c19053a4b7c68723f358bb413ece4c2
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/lib/kernel/list.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/lib/kernel/list.h
+> git cat-file -s 82efbb5b1c19053a4b7c68723f358bb413ece4c2
+> git show --textconv :project2-1/pintos/src/threads/thread.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.c
+> git cat-file -s 53a9316d06e0e0f7cb7719df910fba258275363a
+> git show --textconv :project2-1/pintos/src/lib/kernel/list.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/lib/kernel/list.h
+> git cat-file -s 82efbb5b1c19053a4b7c68723f358bb413ece4c2
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/threads/thread.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.c
+> git cat-file -s 53a9316d06e0e0f7cb7719df910fba258275363a
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/lib/user/syscall.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/lib/user/syscall.h
+> git cat-file -s 8a9e0c013e91a74bb87b318b7f2f3f094c341bd6
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/lib/user/syscall.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/lib/user/syscall.h
+> git cat-file -s 8a9e0c013e91a74bb87b318b7f2f3f094c341bd6
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/filesys/filesys.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/filesys/filesys.c
+> git cat-file -s 7a53f5ffd924ca7b1b384fd9b46b3256e14f30e6
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/userprog/process.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/process.h
+> git cat-file -s 688cd2a37fd2c1bd7fdcb417f834026a25fa4945
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/filesys/file.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/filesys/file.h
+> git cat-file -s a33c5af49f7c9c29142b234290e7c1969b9f54cb
+> git show --textconv :project2-1/pintos/src/filesys/file.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/filesys/file.c
+> git cat-file -s d5fc10de15004e98d4f8490aa8a7ec8a4c7efcff
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :project2-1/pintos/src/userprog/exception.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/exception.c
+> git cat-file -s 19aca125e331783bad87330e8e7213f72072e580
+> git show --textconv :project2-1/pintos/src/userprog/exception.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/exception.h
+> git cat-file -s f83e615bb1e010c8723510a99abb01d714c0f275
+> git show --textconv :project2-1/pintos/src/userprog/exception.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/exception.c
+> git cat-file -s 19aca125e331783bad87330e8e7213f72072e580
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/threads/thread.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.c
+> git cat-file -s 53a9316d06e0e0f7cb7719df910fba258275363a
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/userprog/exception.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/exception.c
+> git cat-file -s 19aca125e331783bad87330e8e7213f72072e580
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/userprog/exception.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/exception.c
+> git cat-file -s 19aca125e331783bad87330e8e7213f72072e580
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/userprog/exception.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/exception.c
+> git cat-file -s 19aca125e331783bad87330e8e7213f72072e580
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/threads/thread.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.c
+> git cat-file -s 53a9316d06e0e0f7cb7719df910fba258275363a
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/threads/thread.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.c
+> git cat-file -s 53a9316d06e0e0f7cb7719df910fba258275363a
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/threads/thread.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.c
+> git cat-file -s 53a9316d06e0e0f7cb7719df910fba258275363a
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/threads/thread.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.c
+> git cat-file -s 53a9316d06e0e0f7cb7719df910fba258275363a
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/lib/kernel/list.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/lib/kernel/list.h
+> git cat-file -s 82efbb5b1c19053a4b7c68723f358bb413ece4c2
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/userprog/exception.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/exception.c
+> git cat-file -s 19aca125e331783bad87330e8e7213f72072e580
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/threads/thread.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.c
+> git cat-file -s 53a9316d06e0e0f7cb7719df910fba258275363a
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/threads/thread.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.c
+> git cat-file -s 53a9316d06e0e0f7cb7719df910fba258275363a
+> git show --textconv :project2-1/pintos/src/filesys/file.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/filesys/file.c
+> git cat-file -s d5fc10de15004e98d4f8490aa8a7ec8a4c7efcff
+> git show --textconv :project2-1/pintos/src/threads/thread.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.c
+> git cat-file -s 53a9316d06e0e0f7cb7719df910fba258275363a
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/threads/thread.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.c
+> git cat-file -s 53a9316d06e0e0f7cb7719df910fba258275363a
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :project2-1/pintos/src/threads/thread.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.c
+> git cat-file -s 53a9316d06e0e0f7cb7719df910fba258275363a
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/threads/thread.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.c
+> git cat-file -s 53a9316d06e0e0f7cb7719df910fba258275363a
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/userprog/exception.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/exception.c
+> git cat-file -s 19aca125e331783bad87330e8e7213f72072e580
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :project2-1/pintos/src/lib/kernel/list.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/lib/kernel/list.h
+> git cat-file -s 82efbb5b1c19053a4b7c68723f358bb413ece4c2
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :project2-1/pintos/src/threads/thread.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.c
+> git cat-file -s 53a9316d06e0e0f7cb7719df910fba258275363a
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/userprog/exception.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/exception.c
+> git cat-file -s 19aca125e331783bad87330e8e7213f72072e580
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/filesys/file.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/filesys/file.c
+> git cat-file -s d5fc10de15004e98d4f8490aa8a7ec8a4c7efcff
+> git show --textconv :project2-1/pintos/src/lib/kernel/list.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/lib/kernel/list.h
+> git cat-file -s 82efbb5b1c19053a4b7c68723f358bb413ece4c2
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/threads/thread.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.c
+> git cat-file -s 53a9316d06e0e0f7cb7719df910fba258275363a
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :project2-1/pintos/src/userprog/exception.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/exception.c
+> git cat-file -s 19aca125e331783bad87330e8e7213f72072e580
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/threads/thread.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.c
+> git cat-file -s 53a9316d06e0e0f7cb7719df910fba258275363a
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/userprog/exception.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/exception.c
+> git cat-file -s 19aca125e331783bad87330e8e7213f72072e580
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :project2-1/pintos/src/threads/thread.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.c
+> git cat-file -s 53a9316d06e0e0f7cb7719df910fba258275363a
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :project2-1/pintos/src/userprog/exception.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/exception.c
+> git cat-file -s 19aca125e331783bad87330e8e7213f72072e580
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/userprog/exception.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/exception.c
+> git cat-file -s 19aca125e331783bad87330e8e7213f72072e580
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/userprog/exception.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/exception.c
+> git cat-file -s 19aca125e331783bad87330e8e7213f72072e580
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :project2-1/pintos/src/userprog/exception.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/exception.c
+> git cat-file -s 19aca125e331783bad87330e8e7213f72072e580
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :project2-1/pintos/src/userprog/exception.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/exception.c
+> git cat-file -s 19aca125e331783bad87330e8e7213f72072e580
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/userprog/exception.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/exception.c
+> git cat-file -s 19aca125e331783bad87330e8e7213f72072e580
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/userprog/exception.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/exception.c
+> git cat-file -s 19aca125e331783bad87330e8e7213f72072e580
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/userprog/exception.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/exception.c
+> git cat-file -s 19aca125e331783bad87330e8e7213f72072e580
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/userprog/exception.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/exception.c
+> git cat-file -s 19aca125e331783bad87330e8e7213f72072e580
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/userprog/exception.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/exception.c
+> git cat-file -s 19aca125e331783bad87330e8e7213f72072e580
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :project2-1/pintos/src/threads/vaddr.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/vaddr.h
+> git cat-file -s 184c8241c832a6705031b3a1f785eece8e380455
+> git show --textconv :project2-1/pintos/src/userprog/exception.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/exception.c
+> git cat-file -s 19aca125e331783bad87330e8e7213f72072e580
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/userprog/exception.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/exception.c
+> git cat-file -s 19aca125e331783bad87330e8e7213f72072e580
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :project2-1/pintos/src/filesys/file.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/filesys/file.c
+> git cat-file -s d5fc10de15004e98d4f8490aa8a7ec8a4c7efcff
+> git show --textconv :project2-1/pintos/src/threads/thread.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.c
+> git cat-file -s 53a9316d06e0e0f7cb7719df910fba258275363a
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :project2-1/pintos/src/userprog/exception.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/exception.c
+> git cat-file -s 19aca125e331783bad87330e8e7213f72072e580
+> git show --textconv :project2-1/pintos/src/threads/thread.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.c
+> git cat-file -s 53a9316d06e0e0f7cb7719df910fba258275363a
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/threads/thread.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.c
+> git cat-file -s 53a9316d06e0e0f7cb7719df910fba258275363a
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :project2-1/pintos/src/filesys/file.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/filesys/file.c
+> git cat-file -s d5fc10de15004e98d4f8490aa8a7ec8a4c7efcff
+> git show --textconv :project2-1/pintos/src/lib/kernel/list.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/lib/kernel/list.h
+> git cat-file -s 82efbb5b1c19053a4b7c68723f358bb413ece4c2
+> git show --textconv :project2-1/pintos/src/threads/thread.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.c
+> git cat-file -s 53a9316d06e0e0f7cb7719df910fba258275363a
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template

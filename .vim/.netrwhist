@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/students_home/cs20171143/oopsubmit'
+let g:netrw_dirhist_2='/students_home/cs20171143'
+let g:netrw_dirhist_3='/students_home/cs20171143/submit'
+let g:netrw_dirhist_4='/students_home/cs20171143/3-1/CSE341-1/Assignments/1st/tests'
+let g:netrw_dirhist_5='/students_home/cs20171143/3-1/CSE341/Assignments/2nd/CBN/tests'
+let g:netrw_dirhist_6='/students_home/cs20171143/3-1/CSE341/Assignments/2nd/CBN/__pycache__'
+let g:netrw_dirhist_7='/students_home/cs20171143/3-1/CSE341/Assignments/2nd/CBV/tests/__pycache__'
+let g:netrw_dirhist_8='/students_home/cs20171143/3-1'
+let g:netrw_dirhist_9='/students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project1/pintos/src/devices'

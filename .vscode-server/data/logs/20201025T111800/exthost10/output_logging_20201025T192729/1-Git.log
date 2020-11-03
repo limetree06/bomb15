@@ -1,0 +1,170 @@
+Looking for git in: git
+Using git 1.8.3.1 from git
+> git rev-parse --git-dir
+Open repository: /students_home/cs20171143/3-2/OS/uni20171143_uni20181281
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :project2-1/pintos/src/userprog/process.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/process.c
+> git cat-file -s f108f8454fde1fbf3c491f2ce0397416aaafd440
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 370c89b10f90501a4684c604ddbff9503481cf7a
+> git show --textconv :project2-1/pintos/src/userprog/process.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/process.c
+> git cat-file -s f108f8454fde1fbf3c491f2ce0397416aaafd440
+> git status -z -u
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/process.c
+> git cat-file -s e8c0bec20a16f2a6aec8e2eef945938291a8c841
+> git show --textconv :project2-1/pintos/src/userprog/process.c
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/process.c
+> git cat-file -s e8c0bec20a16f2a6aec8e2eef945938291a8c841
+> git show --textconv :project2-1/pintos/src/userprog/process.c
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/process.c
+> git cat-file -s e8c0bec20a16f2a6aec8e2eef945938291a8c841
+> git show --textconv :project2-1/pintos/src/userprog/process.c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/process.c
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git cat-file -s e8c0bec20a16f2a6aec8e2eef945938291a8c841
+> git config --get commit.template
+> git show --textconv :project2-1/pintos/src/userprog/process.c
+> git status -z -u
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/process.c
+> git cat-file -s f108f8454fde1fbf3c491f2ce0397416aaafd440
+> git show --textconv :project2-1/pintos/src/userprog/process.c
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/process.c
+> git cat-file -s f108f8454fde1fbf3c491f2ce0397416aaafd440
+> git show --textconv :project2-1/pintos/src/userprog/process.c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git status -z -u
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/process.c
+> git cat-file -s f108f8454fde1fbf3c491f2ce0397416aaafd440
+> git show --textconv :project2-1/pintos/src/userprog/process.c
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git status -z -u
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/process.c
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git show --textconv :project2-1/pintos/src/userprog/process.c
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git status -z -u
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/process.c
+> git show --textconv :project2-1/pintos/src/userprog/process.c
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template

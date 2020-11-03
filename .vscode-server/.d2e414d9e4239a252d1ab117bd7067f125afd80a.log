@@ -1,0 +1,79 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+IP Address: 172.20.2.6
+IP Address: 10.0.2.95
+Extension host agent listening on 39966
+
+
+[15:12:51] Extension host agent started.
+[15:12:55] [127.0.0.1][eb32a69b][ManagementConnection] New connection established.
+[15:12:55] [127.0.0.1][07c00d2f][ExtensionHostConnection] New connection established.
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+[15:12:55] [127.0.0.1][07c00d2f][ExtensionHostConnection] <20287> Launched Extension Host Process.
+[15:17:41] [127.0.0.1][eb32a69b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[15:17:42] [127.0.0.1][07c00d2f][ExtensionHostConnection] <20287> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[15:17:42] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[15:17:44] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[15:17:44] Cancelling previous shutdown timeout
+[15:17:44] [127.0.0.1][c78e56eb][ManagementConnection] New connection established.
+[15:17:44] [127.0.0.1][014e75f7][ExtensionHostConnection] New connection established.
+[15:17:44] [127.0.0.1][014e75f7][ExtensionHostConnection] <21115> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[15:22:44] New EH opened, aborting shutdown
+[15:38:13] [127.0.0.1][c78e56eb][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[15:38:14] [127.0.0.1][014e75f7][ExtensionHostConnection] <21115> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[15:38:14] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[15:38:20] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[15:38:20] Cancelling previous shutdown timeout
+[15:38:20] [127.0.0.1][c8469b58][ManagementConnection] New connection established.
+[15:38:20] [127.0.0.1][cfbe0b2a][ExtensionHostConnection] New connection established.
+[15:38:20] [127.0.0.1][cfbe0b2a][ExtensionHostConnection] <24690> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[15:43:20] New EH opened, aborting shutdown
+[16:07:27] [127.0.0.1][c8469b58][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/students_home/cs20171143/.vscode-server/bin/d2e414d9e4239a252d1ab117bd7067f125afd80a/out/bootstrap.js:5:377)
+    at process.emit (events.js:223:5)
+[16:30:03] [127.0.0.1][c8469b58][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[16:30:03] [127.0.0.1][95938733][ManagementConnection] New connection established.
+[16:30:03] [127.0.0.1][19402720][ExtensionHostConnection] New connection established.
+[16:30:03] [127.0.0.1][19402720][ExtensionHostConnection] <5372> Launched Extension Host Process.
+[16:30:35] [127.0.0.1][95938733][ManagementConnection] The client has reconnected.
+[16:31:09] [127.0.0.1][95938733][ManagementConnection] The client has reconnected.
+[16:35:03] [127.0.0.1][c8469b58][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[16:35:04] [127.0.0.1][cfbe0b2a][ExtensionHostConnection] <24690> Extension Host Process exited with code: 0, signal: null.
+[17:00:48] [127.0.0.1][c7113a41][ExtensionHostConnection] New connection established.
+[17:00:48] [127.0.0.1][c7113a41][ExtensionHostConnection] <11551> Launched Extension Host Process.
+[17:00:48] [127.0.0.1][5065ec0e][ManagementConnection] New connection established.
+[17:07:31] [127.0.0.1][95938733][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/students_home/cs20171143/.vscode-server/bin/d2e414d9e4239a252d1ab117bd7067f125afd80a/out/bootstrap.js:5:377)
+    at process.emit (events.js:223:5)
+[17:08:46] [127.0.0.1][95938733][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[17:08:46] [127.0.0.1][5065ec0e][ManagementConnection] The client has reconnected.
+[17:08:47] [127.0.0.1][c7113a41][ExtensionHostConnection] The client has reconnected.
+[17:11:49] [127.0.0.1][5065ec0e][ManagementConnection] The client has reconnected.
+[17:11:49] [127.0.0.1][c7113a41][ExtensionHostConnection] The client has reconnected.
+[17:12:59] [127.0.0.1][5065ec0e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[17:13:00] [127.0.0.1][c7113a41][ExtensionHostConnection] <11551> Extension Host Process exited with code: 0, signal: null.
+[17:13:46] [127.0.0.1][95938733][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[17:13:48] [127.0.0.1][19402720][ExtensionHostConnection] <5372> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[17:13:48] Last EH closed, waiting before shutting down
+Last EH closed, shutting down
+[17:18:48] Last EH closed, shutting down

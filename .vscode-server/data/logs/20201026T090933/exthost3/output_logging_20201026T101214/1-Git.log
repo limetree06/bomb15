@@ -1,0 +1,226 @@
+Looking for git in: git
+Using git 1.8.3.1 from git
+> git rev-parse --git-dir
+Open repository: /students_home/cs20171143/3-2/OS/uni20171143_uni20181281
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :project2-1/pintos/src/lib/syscall-nr.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/lib/syscall-nr.h
+> git cat-file -s 21a7af952f8728f93b77d6867ebbf60a7699864c
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/lib/syscall-nr.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/lib/syscall-nr.h
+> git cat-file -s 21a7af952f8728f93b77d6867ebbf60a7699864c
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/lib/syscall-nr.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/lib/syscall-nr.h
+> git cat-file -s 21a7af952f8728f93b77d6867ebbf60a7699864c
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git check-ignore -v -z --stdin
+> git show --textconv :project2-1/pintos/src/lib/user/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/lib/user/syscall.c
+> git cat-file -s a9c5bc8500c517f58169a52c1dee5f1b78a3edff
+> git show --textconv :project2-1/pintos/src/lib/user/stdio.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/lib/user/stdio.h
+> git cat-file -s b9f3cc6c96e2246d04703796ec05417d5e26b1a8
+> git show --textconv :project2-1/pintos/src/lib/user/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/lib/user/syscall.c
+> git cat-file -s a9c5bc8500c517f58169a52c1dee5f1b78a3edff
+> git show --textconv :project2-1/pintos/src/lib/user/syscall.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/lib/user/syscall.h
+> git cat-file -s 8a9e0c013e91a74bb87b318b7f2f3f094c341bd6
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/lib/syscall-nr.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/lib/syscall-nr.h
+> git cat-file -s 21a7af952f8728f93b77d6867ebbf60a7699864c
+> git show --textconv :project2-1/pintos/src/lib/user/stdio.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/lib/user/stdio.h
+> git cat-file -s b9f3cc6c96e2246d04703796ec05417d5e26b1a8
+> git show --textconv :project2-1/pintos/src/lib/syscall-nr.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/lib/syscall-nr.h
+> git cat-file -s 21a7af952f8728f93b77d6867ebbf60a7699864c
+> git show --textconv :project2-1/pintos/src/lib/user/syscall.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/lib/user/syscall.h
+> git cat-file -s 8a9e0c013e91a74bb87b318b7f2f3f094c341bd6
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :project2-1/pintos/src/threads/thread.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.c
+> git cat-file -s 53a9316d06e0e0f7cb7719df910fba258275363a
+> git show --textconv :project2-1/pintos/src/threads/thread.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.h
+> git cat-file -s 7965c0607815eab3275da7babdf669177f18c8e2
+> git show --textconv :project2-1/pintos/src/threads/thread.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/threads/thread.c
+> git cat-file -s 53a9316d06e0e0f7cb7719df910fba258275363a
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :project2-1/pintos/src/filesys/filesys.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/filesys/filesys.h
+> git cat-file -s c1cda84ecc324fbe70b4e9e3e729ed9ade89c24b
+> git show --textconv :project2-1/pintos/src/filesys/filesys.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/filesys/filesys.c
+> git cat-file -s 7a53f5ffd924ca7b1b384fd9b46b3256e14f30e6
+> git show --textconv :project2-1/pintos/src/filesys/filesys.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/filesys/filesys.h
+> git cat-file -s c1cda84ecc324fbe70b4e9e3e729ed9ade89c24b
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/filesys/filesys.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/filesys/filesys.h
+> git cat-file -s c1cda84ecc324fbe70b4e9e3e729ed9ade89c24b
+> git show --textconv :project2-1/pintos/src/filesys/filesys.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/filesys/filesys.c
+> git cat-file -s 7a53f5ffd924ca7b1b384fd9b46b3256e14f30e6
+> git show --textconv :project2-1/pintos/src/filesys/filesys.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/filesys/filesys.h
+> git cat-file -s c1cda84ecc324fbe70b4e9e3e729ed9ade89c24b
+> git show --textconv :project2-1/pintos/src/filesys/off_t.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/filesys/off_t.h
+> git cat-file -s 9caff4dbae88823f109b1d3ee99c7535f79a55ce
+> git show --textconv :project2-1/pintos/src/filesys/filesys.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/filesys/filesys.h
+> git cat-file -s c1cda84ecc324fbe70b4e9e3e729ed9ade89c24b
+> git show --textconv :project2-1/pintos/src/filesys/off_t.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/filesys/off_t.h
+> git cat-file -s 9caff4dbae88823f109b1d3ee99c7535f79a55ce
+> git show --textconv :project2-1/pintos/src/filesys/filesys.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/filesys/filesys.h
+> git cat-file -s c1cda84ecc324fbe70b4e9e3e729ed9ade89c24b
+> git show --textconv :project2-1/pintos/src/filesys/filesys.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/filesys/filesys.c
+> git cat-file -s 7a53f5ffd924ca7b1b384fd9b46b3256e14f30e6
+> git show --textconv :project2-1/pintos/src/filesys/filesys.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/filesys/filesys.h
+> git cat-file -s c1cda84ecc324fbe70b4e9e3e729ed9ade89c24b
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/filesys/filesys.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/filesys/filesys.h
+> git cat-file -s c1cda84ecc324fbe70b4e9e3e729ed9ade89c24b
+> git show --textconv :project2-1/pintos/src/filesys/filesys.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/filesys/filesys.c
+> git cat-file -s 7a53f5ffd924ca7b1b384fd9b46b3256e14f30e6
+> git show --textconv :project2-1/pintos/src/filesys/filesys.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/filesys/filesys.h
+> git cat-file -s c1cda84ecc324fbe70b4e9e3e729ed9ade89c24b
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git show --textconv :project2-1/pintos/src/filesys/filesys.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/filesys/filesys.c
+> git cat-file -s 7a53f5ffd924ca7b1b384fd9b46b3256e14f30e6
+> git show --textconv :project2-1/pintos/src/filesys/filesys.h
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/filesys/filesys.h
+> git cat-file -s c1cda84ecc324fbe70b4e9e3e729ed9ade89c24b
+> git show --textconv :project2-1/pintos/src/userprog/syscall.c
+> git ls-files --stage -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git cat-file -s 78d23d302c6d80f622d0b1328ec99e8f4b85aa25
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+git.getSCMResource.uri file:///students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+repo root /students_home/cs20171143/3-2/OS/uni20171143_uni20181281
+> git show --textconv HEAD:project2-1/pintos/src/userprog/syscall.c
+> git ls-tree -l HEAD -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /students_home/cs20171143/3-2/OS/uni20171143_uni20181281/project2-1/pintos/src/userprog/syscall.c
